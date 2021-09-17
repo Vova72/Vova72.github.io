@@ -1,0 +1,18 @@
+.main {
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+iframe {
+	margin: 0.5%;
+}
+
+.videoButton {
+	margin-left: 37%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+html {
+	overflow-x: hidden;
+}

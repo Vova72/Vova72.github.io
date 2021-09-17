@@ -1,0 +1,162 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: black;
+	list-style-type: none;
+}
+
+html, body {
+	width: 100%;
+	background-color: white;
+}
+
+
+.shapka {
+	width: 100%;
+	padding: 0.5%;
+	background-color: #E6E6E6;
+}
+
+.zagolovok p {
+	color: #AD7730;
+	font-size: 250%;
+	margin-bottom: 0.5%;
+	font-weight: 300;
+	margin-right: 0;
+}
+
+.zagolovok {
+	margin-left: 10%;
+	margin-right: 0;
+}
+
+.menu {
+	width: 100%;
+	position: absolute;
+	background-color: white;
+	z-index: 1;
+}
+
+.menu_group {
+	width: 100%;
+}
+
+.menu_button {
+	width: 25%;
+}
+
+.menu_label {
+	border-radius: 0;
+	padding: 0;
+}
+
+
+footer {
+	background-color: #E6E6E6;
+	padding: 1%;
+	width: 100%;
+	float: left;
+}
+
+.menu_url {
+	float: left;
+	margin-top: 0.7%;
+	margin-left: 10%;
+}
+
+.footer_zagolovok {
+	width: 80%;
+}
+
+.footer_zagolovok span {
+	color: #AD7730;
+	font-size: 250%;
+	margin-bottom: 0.5%;
+	margin-left: 2%;
+	font-weight: 300;
+	margin-right: 0;
+} 
+
+
+/*
+*/
+
+
+.main {
+	margin-top: 2%;
+	width: 100%;
+	clear: both;
+}
+
+.index_header {
+	width: 100%;
+}
+
+.img {
+	float: left;
+}
+
+.site_header {
+	margin-top: 5%;
+	color: #AD7730;
+	font-size: 400%;
+	font-weight: 300;
+	text-align: center;
+	width: 50%;
+	float: right;
+	border-left: 3px solid rgb(230, 32, 68);
+}
+
+.site_header strong {
+	color: #AD7730;
+	font-size: 110%;
+	font-weight: 500;
+}
+
+.div_type1 {
+	/*border-top: 3px solid rgb(230, 32, 68);*/
+	width: 100%;
+
+}
+
+.main div {
+	clear: both;
+}
+
+.block_type1 {
+	margin-top: 5%;
+	color: black;
+	font-size: 150%;
+	font-weight: 300;
+	width: 50%;
+	float: left;
+	border-right: 3px solid rgb(230, 32, 68);
+	padding-left: 2%;
+	padding-right: 2%;
+	line-height: 2;
+}
+
+.img1 {
+	float: right;
+	margin-right: 5%;
+}
+
+.img2 {
+	float: left;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+.block_type2 {
+	margin-top: 5%;
+	color: black;
+	font-size: 150%;
+	font-weight: 300;
+	width: 50%;
+	float: right;
+	border-left: 3px solid rgb(230, 32, 68);
+	padding-left: 2%;
+	padding-right: 2%;
+	line-height: 2;
+}
+
